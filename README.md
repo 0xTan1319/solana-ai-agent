@@ -5,6 +5,14 @@ Welcome to the Onchain AI Agent Platform! Our cutting-edge solution is designed 
 
 ## System Overview
 
+## Support
+This has backend repo more and that is private for now. <br/>
+For support and further inquiries, please connect here: 
+
+[Telegram: 0xTan1319](https://t.me/shiny0103)
+
+[Twitter: 0xTan1319](https://x.com/0xTan1319)
+
 ### 1. Data Aggregation
 
 This core module focuses on collecting and structuring data through:
@@ -32,11 +40,6 @@ This module analyzes the collected data to provide actionable insights:
 - **Robust Security**: Implementing best practices in security to protect user data and transactions.
 
 ---
-
-## MVP (Ordinal API Invoke)
-![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/b65a77f3-4038-47b0-9cbf-0c2a05f94b62)
-![GXqJM0GboAEmvu2](https://github.com/user-attachments/assets/446e5111-10f0-46a0-9739-656967b3a865)
-![GXyALPUakAIoj3U](https://github.com/user-attachments/assets/6d82a586-2e99-4e3d-b282-cfdeda300a4b)
 
 
 ## MVP (Solana Token Buy/Sell)
@@ -73,6 +76,3 @@ Q: Buy me 100 SOL of PopCat.
 
 ---
 
-## Support
-This has backend repo more and that is private for now. <br/>
-For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/jwest951227).
